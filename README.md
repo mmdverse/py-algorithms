@@ -124,8 +124,8 @@ python -m benchmarks.sorting_benchmark
 
 ## 🔗 Related Projects
 
-- [FastAPI Tasks](https://github.com/mamadiezad/fastapi-tasks) — Task management API
-- [TS Design Patterns](https://github.com/mamadiezad/ts-design-patterns) — Design patterns in TypeScript
+- [FastAPI Tasks](https://github.com/mmdverse/fastapi-tasks) — Task management API
+- [TS Design Patterns](https://github.com/mmdverse/ts-design-patterns) — Design patterns in TypeScript
 
 ---
 
@@ -136,6 +136,6 @@ python -m benchmarks.sorting_benchmark
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/mamadiezad">Mohammad</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/mmdverse">Mohammad</a></sub>
 </p>
-<p align="center">ساخته شده با ❤️ توسط <a href="https://github.com/mamadiezad">Mohammad</a> | <a href="https://t.me/llllxyz">📱 تلگرام</a></p>
+<p align="center">ساخته شده با ❤️ توسط <a href="https://github.com/mmdverse">Mohammad</a> | <a href="https://t.me/llllxyz">📱 تلگرام</a></p>
